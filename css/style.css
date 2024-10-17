@@ -50,12 +50,13 @@ body {
     color: #004d99;
 }
 
-.footer {
+.footer { 
+   /* display: none;*/
     text-align: center;
     padding: 10px;
     background-color: #004d99;
     color: white;
-    position: fixed;
     width: 100%;
     bottom: 0;
+    
 }
